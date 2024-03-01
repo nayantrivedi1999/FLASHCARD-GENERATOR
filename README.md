@@ -7,6 +7,7 @@ This is a frontend capstone project given by the Almabetter which is Flashcard G
 ## Deployment
 
 Click on the link to see my flashcard generator website
+https://generateflashcard.netlify.app/
 
 ## Run Locally
 
@@ -74,5 +75,4 @@ Javascript, HTML, CSS, ReactJS, Redux
 ## Project Created With
 https://github.com/nayantrivedi1999
 
-## Deployed app
 
