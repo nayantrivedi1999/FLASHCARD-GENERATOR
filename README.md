@@ -72,7 +72,7 @@ This project is created with mainly Reactjs , In this project mainly we have thr
 Javascript, HTML, CSS, ReactJS, Redux
 
 ## Project Created With
-
+https://github.com/nayantrivedi1999
 
 ## Deployed app
 
